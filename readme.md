@@ -1,3 +1,2 @@
-# p5.js Template
-
-Maqueta para comenzar projectos p5.js
+Proyecto Final de la materia Programación Orientada al Diseño de la LED UTDT
+Por Alexia Feldman, Juana Fernandez Pastor y Maitena Van Houtte
