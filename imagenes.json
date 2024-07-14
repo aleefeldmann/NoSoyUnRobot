@@ -1,0 +1,109 @@
+{
+  "imagenes": [
+     {
+       "src": "noticias/news0.jpg",
+       "x": 40,
+       "y": 40,
+       "width": 600,
+       "height": 120
+     },
+     {
+       "src": "noticias/news1.jpg",
+       "x": 200,
+       "y": 950,
+       "width": 460,
+       "height": 130
+     },
+     {
+        "src": "noticias/news2.jpg",
+        "x": 20,
+        "y": 350,
+        "width": 613,
+        "height": 177
+      },
+      {
+        "src": "noticias/news3.jpg",
+        "x": 120,
+        "y": 170,
+        "width": 460,
+        "height": 220
+      },
+      {
+        "src": "noticias/news4.jpg",
+        "x": 600,
+        "y": 200,
+        "width": 500,
+        "height": 120
+      },
+      {
+        "src": "noticias/news12.jpg",
+        "x": 700,
+        "y": 300,
+        "width": 487,
+        "height": 66
+      },
+      {
+      "src": "noticias/news13.jpg",
+        "x": 550,
+        "y": 380,
+        "width": 910,
+        "height": 190 
+      },
+      {
+        "src": "noticias/news5.jpg",
+        "x": 650,
+        "y": 30,
+        "width": 420,
+        "height": 180
+      },
+      {
+        "src": "noticias/news6.jpg",
+        "x": 290,
+        "y": 570,
+        "width": 420,
+        "height": 340
+      },
+      {
+        "src": "noticias/news7.jpg",
+        "x": 60,
+        "y": 750,
+        "width": 380,
+        "height": 120
+      },
+      {
+        "src": "noticias/news8.jpg",
+        "x": 680,
+        "y": 600,
+        "width": 480,
+        "height": 120
+      },
+      {
+        "src": "noticias/news9.jpg",
+        "x": 550,
+        "y": 720,
+        "width": 328,
+        "height": 146
+      },
+      {
+        "src": "noticias/news10.jpg",
+        "x": 650,
+        "y": 820,
+        "width": 568,
+        "height": 181.5
+      },
+      {
+        "src": "noticias/news11.jpg",
+        "x": 550,
+        "y": 1020,
+        "width": 627,
+        "height": 153
+      },
+      {
+         "src": "noticias/news14.jpg",
+         "x": 50,
+         "y": 1180,
+          "width": 751.5,
+          "height": 118.5
+           }
+   ]
+  }
