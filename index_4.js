@@ -75,7 +75,8 @@ let s4 = function(sketch) {
 
   function takePhoto() {
     if (video.width && video.height) {
-      let foto = video.get(); // Obtén una copia del video actual
+      let foto = sketch.createImage(video.width, video.height);
+      foto.copy(video, 0, 0, video.width, video.height, 0, 0, foto.width, foto.height);
       fotos.push(foto);
       fotosTomadas++;
       console.log('Foto tomada: ${fotosTomadas}');
